@@ -1,0 +1,21 @@
+.page {
+  padding: 68px 30px 64px;
+
+  &__head {
+    padding: 36px 0 50px;
+  }
+
+  &__heading {
+    margin-bottom: 36px;
+  }
+
+  &__info {
+    font-size: 20px;
+    line-height: 28px;
+    margin-bottom: 0;
+  }
+
+  &__content {
+    margin: 0 auto;
+  }
+}

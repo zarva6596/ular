@@ -1,0 +1,21 @@
+.primary-menu {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  margin-bottom: 0;
+}
+
+.menu {
+  &-item {
+    margin-right: 36px;
+
+    &:last-of-type {
+      margin-right: 0;
+    }
+
+    &__link {
+      color: #333;
+      font-size: 14px;
+    }
+  }
+}

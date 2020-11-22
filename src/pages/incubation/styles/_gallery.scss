@@ -1,0 +1,12 @@
+.gallery {
+  &__photos {
+    margin: 0 auto;
+    width: 1335px;
+    overflow: hidden;
+  }
+
+  &__photo {
+    border-radius: 20px;
+    margin: 15px;
+  }
+}

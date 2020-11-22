@@ -1,0 +1,18 @@
+.combi {
+  &::before {
+    height: 506px;
+    width: 508px;
+    background-image: url("../images/combi-bg.png");
+    left: -170px;
+    top: -116px;
+    transform: rotate(-10deg);
+  }
+
+  &::after {
+    height: 533px;
+    width: 355px;
+    background-image: url("../images/combi-bg-2.png");
+    bottom: -280px;
+    right: -90px;
+  }
+}

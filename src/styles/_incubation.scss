@@ -1,0 +1,11 @@
+.incubation {
+  &::before {
+    right: 0;
+    top: 160px;
+    content: "";
+    height: 318px;
+    width: 218px;
+    background-image: url("../images/egg.jpg");
+    background-position: center right;
+  }
+}

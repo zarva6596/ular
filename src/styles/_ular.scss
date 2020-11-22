@@ -1,0 +1,9 @@
+.ular {
+  &::after {
+    width: 329px;
+    height: 448px;
+    background-image: url("../images/ular-bg.png");
+    right: -40px;
+    top: -200px;
+  }
+}

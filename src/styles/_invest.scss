@@ -1,0 +1,10 @@
+.invest {
+  &::before {
+    z-index: -1;
+    height: 526px;
+    width: 814px;
+    background-image: url("../images/agro-invest.png");
+    right: -266px;
+    top: 50px;
+  }
+}

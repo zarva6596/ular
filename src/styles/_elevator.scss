@@ -1,0 +1,10 @@
+.elevator {
+  &::before {
+    height: 506px;
+    width: 508px;
+    background-image: url("../images/combi-bg.png");
+    left: -170px;
+    top: -116px;
+    transform: rotate(-10deg);
+  }
+}

@@ -1,0 +1,12 @@
+.slick {
+  &-track {
+    display: flex;
+    justify-content: center;
+  }
+}
+
+.slider {
+  &__item {
+    text-align: center;
+  }
+}
